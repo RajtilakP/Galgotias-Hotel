@@ -1,1 +1,1 @@
-Galgotias-Hotel
+# Hotel Reservation System
